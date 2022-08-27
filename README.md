@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> Description the project.
+> For this project, I had to create "Hello world" repository and a feature branch that i cloned to my local machine, I then added index.HTML file and a Styles.css File, I set up linters for HTML&CSS and then created a .gitignore file to make sure certain files do not get published when i commit my changes from my local repo to my GitHub Master Repo, The goal here is to master all of the tools and best practices learned about in previous steps of The Program, which I will be using in all Microverse projects and most likely in my future job as well, so it is important to know the processes required!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Github Workflow Actions, HTML&CSS Linters
+- Virtual Studio Code, GitHub
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+**This Project was to make sure i understand the basic tools and methods i will be using on a daily basis during the course of my microverse programm as well as future work life.**
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Jerome**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/187jjay187)
+- Twitter: [@twitterhandle](https://twitter.com/187jjay187)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jerome-osman-137605a4)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -71,5 +47,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
